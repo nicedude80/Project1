@@ -8,7 +8,7 @@
   "model_variants": {
      "default": {
         "models": [
-           "file(falcon_of_freedom.qb)"
+           "file(wooden_statue.qb)"
         ]
      }
   },
