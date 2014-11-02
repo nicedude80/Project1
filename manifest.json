@@ -1,0 +1,11 @@
+ {
+     "info" : {
+         "name" : "project1"
+  },
+  "aliases" : {
+         "name_of_alias" : "file(file path)"
+  },
+  "mixintos" : {
+          "/stonehearth/some path" : "hotairballoonmod/some other path"
+   }
+}
