@@ -1,0 +1,20 @@
+ {
+   "type":"recipe",
+   "work_units"  : 2,
+   "recipe_name" : "wooden_statue",
+   "description" : "Looks nice!",
+   "flavor"      : "Batteries not included.",
+   "portrait"    : "file(/entities/decoration/wooden_statue/wooden_statue.png)",
+
+   "ingredients": [
+  {
+     "material" : "wood resource",
+     "count" : 5
+  }
+  ],
+  "produces": [
+      {
+         "item":"project1:decoration:wooden_statue"
+      }
+  ]
+}

@@ -3,7 +3,7 @@
          "name" : "project1"
   },
   "aliases" : {
-         "name_of_alias" : "file(file path)"
+         "project1:decoration:wooden_statue" : "file(entities/decoration/wooden_statue)"
   },
   "mixintos" : {
           "/stonehearth/some path" : "hotairballoonmod/some other path"

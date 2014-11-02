@@ -1,0 +1,9 @@
+{
+  "craftable_recipes" : {
+    "Signage & Decoration" : {
+         "wooden_statue" : {
+                 "uri"   :  "file(wooden_statue_recipe.json)"
+               }
+          }
+   }
+}
