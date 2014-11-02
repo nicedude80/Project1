@@ -3,9 +3,9 @@
          "name" : "project1"
   },
   "aliases" : {
-         "project1:decoration:wooden_statue" : "file(entities/decoration/wooden_statue)"
+         "decoration:wooden_statue" : "file(entities/decoration/wooden_statue)"
   },
   "mixintos" : {
-          "/stonehearth/some path" : "hotairballoonmod/some other path"
+          "/stonehearth/professions/carpenter/recipes/recipes.json" : "wooden_statues/professions/carpenter/recipes/recipes.json"
    }
 }
