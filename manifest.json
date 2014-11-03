@@ -6,6 +6,6 @@
          "project1:decoration:wooden_statue" : "file(entities/decoration/wooden_statue)"
   },
   "mixintos" : {
-          "/stonehearth/professions/carpenter/recipes/recipes.json" : "wooden_statues/professions/carpenter/recipes/recipes.json"
+          "/stonehearth/jobs/carpenter/recipes/recipes.json" : "/jobs/carpenter/recipes/recipes.json"
    }
 }
